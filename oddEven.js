@@ -6,6 +6,5 @@ function oddEven(n) {
         return "Odd"
     }
 }
-// oddEven(8)
 const result = oddEven(8)
 console.log(result);
